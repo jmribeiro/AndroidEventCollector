@@ -1,7 +1,5 @@
 # Android Event Collector [pt-PT]
 
-##############################################################################################################
-
 DISCLAIMER:
 	
 	> Para correr a ferramenta é necessário:
@@ -17,7 +15,6 @@ Como não tivemos oportunidade para tal, a ferramenta está testada para a vers�
 
 ** Qualquer sistema operativo com Java, ADB e SQLITE3 deve correr a ferramenta, contudo esta apenas foi testada em Windows (10)
 
-##############################################################################################################
 
 1) Compilar a ferramenta:
 
@@ -37,8 +34,6 @@ Alternativamente - Deploy do Jar:
 	B) Correr a ferramenta:
 
 		$ java -jar AndroidEventCollector-1.0-SNAPSHOT-jar-with-dependencies.jar
-
-##############################################################################################################
 
 PASTAS:
 
